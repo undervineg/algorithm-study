@@ -24,7 +24,7 @@
 
 - 복잡도: **O(n)**
 
-**[코드 보러가기](https://github.com/undervineg/algorithm-study/blob/master/string/1.1_isUniqChars.playground/Contents.swift)**
+**[코드 보러가기](https://github.com/undervineg/algorithm-study/blob/master/1_String/1.1_isUniqChars.playground/Contents.swift)**
 
 <br/>
 
