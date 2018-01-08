@@ -25,3 +25,14 @@
 - 복잡도: **O(n)**
 
 **[코드 보러가기](https://github.com/undervineg/algorithm-study/blob/master/string/1.1_isUniqChars.playground/Contents.swift)**
+
+<br/>
+
+## 1-2. 문자열 뒤집기
+### 아이디어: 스택을 활용한다. 
+#### 알고리즘
+- 문자열 앞에서부터 스택에 넣은 후(push), 하나씩 꺼내어(pop) 출력한다.
+
+- 복잡도: **O(n^2)**
+
+**[코드 보러가기]()**
